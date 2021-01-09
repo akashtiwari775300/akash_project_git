@@ -1,0 +1,4 @@
+#!/bin/bash
+DIRECTORY=/home/akashtiwari
+ls $DIRECTORY
+ls -l $DIRECTORY

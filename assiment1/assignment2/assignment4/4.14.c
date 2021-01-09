@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+	int x=3;
+	float y=5.0;
+	if (x==y)
+		printf("x and y are equal");
+	else
+		printf("x and y are not equal");
+	return 0;
+
+
+
+
+}
+
+
+                     // x and y are equal //

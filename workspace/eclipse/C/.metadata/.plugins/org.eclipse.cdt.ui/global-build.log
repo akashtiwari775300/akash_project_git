@@ -1,0 +1,48 @@
+00:13:50 **** Build of configuration Debug for project test_2d_array ****
+make all 
+Building file: ../src/test_2d_array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test_2d_array.d" -MT"src/test_2d_array.o" -o "src/test_2d_array.o" "../src/test_2d_array.c"
+Finished building: ../src/test_2d_array.c
+ 
+Building target: test_2d_array
+Invoking: GCC C Linker
+gcc  -o "test_2d_array"  ./src/test_2d_array.o   
+Finished building target: test_2d_array
+ 
+00:15:10 **** Incremental Build of configuration Debug for project test_2d_array ****
+make all 
+make: Nothing to be done for 'all'.
+00:18:33 **** Incremental Build of configuration Debug for project test_2d_array ****
+make all 
+Building file: ../src/test_2d_array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test_2d_array.d" -MT"src/test_2d_array.o" -o "src/test_2d_array.o" "../src/test_2d_array.c"
+Finished building: ../src/test_2d_array.c
+ 
+Building target: test_2d_array
+Invoking: GCC C Linker
+gcc  -o "test_2d_array"  ./src/test_2d_array.o   
+Finished building target: test_2d_array
+ 
+00:19:18 **** Incremental Build of configuration Debug for project test_2d_array ****
+make all 
+Building file: ../src/test_2d_array.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/test_2d_array.d" -MT"src/test_2d_array.o" -o "src/test_2d_array.o" "../src/test_2d_array.c"
+Finished building: ../src/test_2d_array.c
+ 
+Building target: test_2d_array
+Invoking: GCC C Linker
+gcc  -o "test_2d_array"  ./src/test_2d_array.o   
+Finished building target: test_2d_array
+ 
+00:19:57 **** Incremental Build of configuration Debug for project test_2d_array ****
+make all 
+make: Nothing to be done for 'all'.
+00:20:28 **** Incremental Build of configuration Debug for project test_2d_array ****
+make all 
+make: Nothing to be done for 'all'.
+00:20:46 **** Incremental Build of configuration Debug for project test_2d_array ****
+make all 
+make: Nothing to be done for 'all'.

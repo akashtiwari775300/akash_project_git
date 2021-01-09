@@ -1,0 +1,6 @@
+#!/bin /bash
+if date
+then
+date>>ex2
+
+fi
